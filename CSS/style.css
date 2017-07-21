@@ -1,0 +1,13 @@
+.image-wrapper{
+background-color:#31f9e1;
+height: 10em;
+display: flex;
+justify-content: center;
+background-image:url(images/estadio-1.jpeg);
+background-size: cover;
+background-position: center;
+}
+.image-wrapper p{
+  align-self: flex-end;
+  margin: 0.5em auto;
+}
